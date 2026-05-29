@@ -102,6 +102,19 @@ Designed and delivered AI literacy workshops, Quarto lab files, interactive HTML
 | PyCon US | RAG & AI Literacy | 2025 |
 | ACM SIGCITE | AI in Education | 2025 |
 | NJ AI Literacy Summit | Hands-On RAG for AI Literacy | Dec 2025 |
+
+## IEEE NJ Coast Young Professionals
+
+Organized AI workshops and fostered industry-academic collaboration.
+
+## AI Mentorship
+
+Led professional development for 14 adjunct faculty at PCCC.
+
+## Hackathon Co-Judge
+
+Delivered AI Workshop: Ideas to Impact at Kean University
+Evaluated student projects at Montclair State University hackathon and guided students in Princeton University Hackathon.
 ---
 
 ## Currently Learning
