@@ -105,7 +105,11 @@ Designed and delivered AI literacy workshops, Quarto lab files, interactive HTML
 
 ## IEEE NJ Coast Young Professionals
 
+Helping early career professionals.
+
 Organized AI workshops and fostered industry-academic collaboration.
+
+Chair, IEEE NJ Coast Young Professionals
 
 ## AI Mentorship
 
