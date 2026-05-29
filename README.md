@@ -13,7 +13,8 @@
 🏆 **5× PCCC Award Winner** — including the **AI Innovation Award**, **AI Integration Award** and recognition for advancing AI understanding and responsible use across the institution.
 ---
 
-MS in Data Science · NJIT &nbsp;|&nbsp; LangChain · LangGraph · RAG · Agentic AI &nbsp;|&nbsp; Open to **AI Engineer**, **ML Engineer**, and **Applied AI** roles.
+MS in Data Science · NJIT &nbsp;|&nbsp; LangChain · LangGraph · RAG · Agentic AI &nbsp;|&nbsp; 
+Open to **AI Engineer**, **ML Engineer**, and **Applied AI** roles.
 
 ---
 
