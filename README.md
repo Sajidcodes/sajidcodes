@@ -158,7 +158,7 @@ Organized panels featuring speakers from **Deloitte, NJII, and Visions Federal C
 |---|---|---|
 | PyCon US | RAG & AI Literacy | 2025 |
 | ACM SIGCITE | AI in Education | 2025 |
-| NJ AI Literacy Summit | Hands-On RAG Chatbot for AI Literacy | Dec 2025 |
+| NJ AI Literacy Summit | Hands-On RAG for AI Literacy | Dec 2025 |
 
 🏆 **5× PCCC Faculty Development Day Award Winner** — including the **Teacher Excellence Award** and recognition for advancing AI understanding and responsible use across the institution.
 
