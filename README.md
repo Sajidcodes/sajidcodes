@@ -80,7 +80,7 @@ jobs:
 
 <br>
 
-Production RAG pipeline over **20K+ document chunks** across 11 textbooks using ChromaDB, Cohere reranking, GPT-4o-mini, LangChain, and LangSmith observability. Includes a Socratic "Study Mode" agent built with LangGraph.
+Production RAG pipeline over **36K+ document chunks** across 11 documents using ChromaDB, Cohere reranking, GPT-4o-mini, LangChain, and LangSmith observability. Includes a Socratic "Study Mode" agent built with LangGraph.
 
 Presented at the **NJ AI Literacy Summit (December 2025)**.
 
