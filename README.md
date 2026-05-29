@@ -113,8 +113,9 @@ Led professional development for 14 adjunct faculty at PCCC.
 
 ## Hackathon Co-Judge
 
-Delivered AI Workshop: Ideas to Impact at Kean University
+**Delivered AI Workshop: Ideas to Impact at Kean University
 Evaluated student projects at Montclair State University hackathon and guided students in Princeton University Hackathon.
+**
 ---
 
 ## Currently Learning
