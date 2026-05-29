@@ -104,7 +104,7 @@ End-to-end star schema data warehouse with Python ETL and an analytical SQL quer
 
 <br>
 
-Designed and delivered AI literacy workshops, Quarto lab files, interactive HTML lessons, and quiz banks for both technical (Python, Data Science) and non-technical (AI in Business) audiences across PCCC and Kean University.
+Designed and delivered AI literacy workshops, Quarto lab files, interactive HTML lessons, and quiz banks for both technical (Python, Data Science) and non-technical (AI in Business) audiences.
 
 Organized panels featuring speakers from **Deloitte, NJII, and Visions Federal Credit Union**.
 
