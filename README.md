@@ -3,9 +3,9 @@
 # Sajid
 ### AI Engineer · Data Scientist · Educator
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajidcodes)
 [![GitHub](https://img.shields.io/badge/GitHub-Sajidcodes-181717?style=flat-square&logo=github)](https://github.com/Sajidcodes)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sajid.h@ieee.org)
 
 </div>
 
