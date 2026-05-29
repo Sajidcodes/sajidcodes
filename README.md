@@ -10,6 +10,8 @@
 </div>
 
 ---
+🏆 **5× PCCC Award Winner** — including the **AI Innovation Award**, **AI Integration Award** and recognition for advancing AI understanding and responsible use across the institution.
+---
 
 MS in Data Science · NJIT &nbsp;|&nbsp; LangChain · LangGraph · RAG · Agentic AI &nbsp;|&nbsp; Open to **AI Engineer**, **ML Engineer**, and **Applied AI** roles.
 
@@ -99,9 +101,6 @@ Designed and delivered AI literacy workshops, Quarto lab files, interactive HTML
 | PyCon US | RAG & AI Literacy | 2025 |
 | ACM SIGCITE | AI in Education | 2025 |
 | NJ AI Literacy Summit | Hands-On RAG for AI Literacy | Dec 2025 |
-
-🏆 **5× PCCC Award Winner** — including the **AI Innovation Award**, **AI Integration Award** and recognition for advancing AI understanding and responsible use across the institution.
-
 ---
 
 ## Currently Learning
