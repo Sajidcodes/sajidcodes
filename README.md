@@ -18,13 +18,6 @@ MS in Data Science · NJIT &nbsp;|&nbsp; LangChain · LangGraph · RAG · Agenti
 ## GitHub Activity
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajidcodes&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sajidcodes&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajidcodes&layout=compact&theme=default&hide_border=true)
-
 </div>
 
 ---
