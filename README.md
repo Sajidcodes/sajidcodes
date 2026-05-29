@@ -11,7 +11,7 @@
 
 ---
 
-MS in Data Science · NJIT &nbsp;|&nbsp; LangChain · LangGraph · RAG · Agentic AI &nbsp;|&nbsp; Open to AI Engineer roles
+MS in Data Science · NJIT &nbsp;|&nbsp; LangChain · LangGraph · RAG · Agentic AI &nbsp;|&nbsp; Open to **AI Engineer**, **ML Engineer**, and **Applied AI** roles.
 
 ---
 
@@ -171,8 +171,6 @@ Organized panels featuring speakers from **Deloitte, NJII, and Visions Federal C
 ---
 
 <div align="center">
-
-Open to **AI Engineer**, **ML Engineer**, and **Applied AI** roles.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
 
