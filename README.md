@@ -121,12 +121,21 @@ Evaluated student projects at Montclair State University hackathon and guided st
 
 ## Projects
 
-Diagnosing and Mitigating Bias in Large Language Models
+### Diagnosing and Mitigating Bias in Large Language Models
 
 • [Evaluated biases in large language models (LLMs) such as BERT, GPT-2, etc., addressing gender, race, and cultural biases]
 
 Blog: https://medium.com/@response.sajidhussain/taming-the-tongue-unveiling-and-debiasing-bias-in-language-models-a-deep-dive-a23c4e8aa9d2
 
+### Speaker Classification using Transformers
+
+• Applied Self-Attention mechanisms and optimized transformer parameters, on a speech dataset featuring 600 speakers, resulting in a 20% reduction in training time with a commendable categorization accuracy score of 96.85%, demonstrating expertise in advanced machine learning techniques.
+
+### HR Dashboard
+
+Designed and developed an interactive HR Dashboard in Tableau, enabling real-time visualization of workforce metrics such as attrition rate by gender, job satisfaction rating, to support data-driven decision-making.
+
+Link: https://github.com/Sajidcodes/Viz
 ## Currently Learning
 
 `Google ADK` · `FastMCP` · `FastAPI Async` · `OpenTelemetry` · `OPA/SPIFFE` · `Kafka`
