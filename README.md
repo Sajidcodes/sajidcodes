@@ -123,7 +123,8 @@ Evaluated student projects at Montclair State University hackathon and guided st
 
 Diagnosing and Mitigating Bias in Large Language Models
 
-• [Evaluated biases in large language models (LLMs) such as BERT, GPT-2, etc., addressing gender, race, and cultural biases]([url](https://medium.com/@response.sajidhussain/taming-the-tongue-unveiling-and-debiasing-bias-in-language-models-a-deep-dive-a23c4e8aa9d2))
+• [Evaluated biases in large language models (LLMs) such as BERT, GPT-2, etc., addressing gender, race, and cultural biases]
+Blog: https://medium.com/@response.sajidhussain/taming-the-tongue-unveiling-and-debiasing-bias-in-language-models-a-deep-dive-a23c4e8aa9d2
 
 ## Currently Learning
 
