@@ -103,13 +103,11 @@ Designed and delivered AI literacy workshops, Quarto lab files, interactive HTML
 | ACM SIGCITE | AI in Education | 2025 |
 | NJ AI Literacy Summit | Hands-On RAG for AI Literacy | Dec 2025 |
 
-## IEEE NJ Coast Young Professionals
+## Chair, IEEE NJ Coast Young Professionals
 
 Helping early career professionals.
 
 Organized AI workshops and fostered industry-academic collaboration.
-
-Chair, IEEE NJ Coast Young Professionals
 
 ## AI Mentorship
 
