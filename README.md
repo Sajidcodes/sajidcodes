@@ -100,7 +100,7 @@ Designed and delivered AI literacy workshops, Quarto lab files, interactive HTML
 | ACM SIGCITE | AI in Education | 2025 |
 | NJ AI Literacy Summit | Hands-On RAG for AI Literacy | Dec 2025 |
 
-🏆 **5× PCCC Faculty Development Day Award Winner** — including the **Teacher Excellence Award** and recognition for advancing AI understanding and responsible use across the institution.
+🏆 **5× PCCC Award Winner** — including the **AI Innovation Award**, **AI Integration Award** and recognition for advancing AI understanding and responsible use across the institution.
 
 ---
 
