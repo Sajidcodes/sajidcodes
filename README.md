@@ -1,9 +1,6 @@
 ### Hi there 👋, Sajid here
 #### MS Data Science
 
-
-I think you'd really like me if you didn't get to know me.
-
 Skills: Data Science | Machine Learning | Deep Learning | Computer Vision
 
 - 🔭 I’m currently working on Recommendation systems. 
